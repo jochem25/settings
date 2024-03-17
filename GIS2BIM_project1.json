@@ -5,6 +5,7 @@
         "Housenumber": 172,
         "Projectdrive": "E:/",
         "Mainfolder": "GIS2BIM/",
-        "Bbox": "200"
+        "Bbox": "200",
+        "BuildingpyName": "test"
     }
 }    
