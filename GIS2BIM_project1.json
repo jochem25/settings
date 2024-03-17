@@ -1,1 +1,14 @@
-
+{
+    "Settings":{
+      "ProjectSettings": [
+          {
+            "City": "Lekkerkerk",
+            "Adress": "Voorstraat",
+            "Housenumber": 172,
+            "Projectdrive": "E:/",
+            "Mainfolder": "GIS2BIM/",
+            "Bbox": "200"
+          },
+        ]
+    }
+}    
