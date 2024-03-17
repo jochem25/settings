@@ -6,6 +6,7 @@
         "Projectdrive": "E:/",
         "Mainfolder": "GIS2BIM/",
         "Bbox": "200",
-        "BuildingpyName": "test"
+        "BuildingpyName": "test",
+        "MaximumLoD": 2.2
     }
 }    
